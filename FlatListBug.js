@@ -1,0 +1,1 @@
+This error occurs when using the FlatList component in React Native and trying to render items with a dynamic height.  The issue is that the FlatList is unable to accurately calculate the total content height, leading to incorrect rendering or layout issues. This is often accompanied by warnings or errors related to content height measurement.
